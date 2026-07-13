@@ -490,6 +490,7 @@ def is_sveltekit_page(path: str) -> bool:
         "import-csv",
         "import-page",
         "image-occlusion",
+        "preferences",
         "editor",
     ]
 
